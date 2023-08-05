@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Seasonal Music"
 include ':app'
-include ':app'
